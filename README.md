@@ -1,6 +1,6 @@
 ⚠️: Antes de instalar el SO asegurate de tener "Secure Boot" deshabilitado.
 1. Descarga la version 2.18p de Rufus y abre el programa.
-2. Busca una pendrive de 8GB o mas y conectalo a tu PC.
+2. Busca un pendrive de 8GB o mas y conectalo a tu PC.
 3. Selecciona tu pendrive en el apartado de "Dispositivo".
 4. Descarga y selecciona el archivo .ISO (Optical disc image)
 5. Selecciona el esquema de particion (MBR o GPT).

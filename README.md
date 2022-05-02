@@ -1,7 +1,4 @@
 ⚠️: Antes de instalar el SO asegurate de tener "Secure Boot" deshabilitado.
-
-
-
 [¿Como deshabilitar Secure Boot?](https://maxedtech.com/how-to-enable-or-disable-secure-boot/)
 
 

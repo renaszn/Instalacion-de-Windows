@@ -1,4 +1,5 @@
 ⚠️: Antes de instalar el SO asegurate de tener "Secure Boot" deshabilitado.
+[¿Como deshabilitar Secure Boot?] (https://maxedtech.com/how-to-enable-or-disable-secure-boot/)
 1. Descarga la version 2.18p de Rufus y abre el programa.
 2. Busca un pendrive de 8GB o mas y conectalo a tu PC.
 3. Selecciona tu pendrive en el apartado de "Dispositivo".

@@ -2,7 +2,7 @@
 
 
 
-1. Descarga la version [2.18p de Rufus](https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18p.exe) y abre el programa.
+1. Descarga la version [2.18p](https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18p.exe) de Rufus y abre el programa.
 2. Busca un pendrive de 8GB o mas y conectalo a tu PC.
 3. Selecciona tu pendrive en el apartado de "Dispositivo".
 4. Descarga y selecciona el archivo .ISO (Optical disc image).
